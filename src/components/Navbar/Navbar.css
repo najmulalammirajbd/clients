@@ -1,0 +1,19 @@
+.login-btn{
+    background-color:#30a0c7;
+    color: white;
+    border: 1px solid white;
+   padding: 14px;
+   margin: -7px;
+   margin-left: 5px;
+}
+.login-btn:hover{
+    background-color:white;
+    color: #30a0c7;
+    border: 1px solid #30a0c7;
+   padding: 14px;
+   margin: -7px;
+   margin-left: 5px;
+}
+.bg-navbar{
+    background-color: #2e2c399a;
+}
